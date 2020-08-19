@@ -1,4 +1,6 @@
 # movies
+A Vue.js experimental App using Vue Router and VueX
+demo : https://my-movies96.netlify.app/#/
 
 ## Project setup
 ```
